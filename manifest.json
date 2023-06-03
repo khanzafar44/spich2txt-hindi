@@ -1,0 +1,67 @@
+{
+    "name": "Typing Guru",
+    "short_name": "TypingGuru",
+    "description": "TypingGuru.net is a free solution to all languages typing, voice typing, language translation, age calculate, krutidev to unicode converter, free fonts. You can type all languages ​​here.",
+    "icons": [
+        {
+            "src": "/images/favicon/favicon32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon36x36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon196x196.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/favicon/favicon256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon/favicon512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+	"theme_color": "#d40041",
+    "background_color": "#ffffff",
+    "start_url": "https://www.typingguru.net",
+    "display": "standalone"
+}
